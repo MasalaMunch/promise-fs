@@ -1,0 +1,9 @@
+{
+  "name": "@masalamunch/promise-fs",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MasalaMunch/promise-fs.git"
+  },
+  "license": "ISC"
+}
