@@ -5,5 +5,8 @@
     "type": "git",
     "url": "git+https://github.com/MasalaMunch/promise-fs.git"
   },
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "is-string": "1.0.5"
+  }
 }
