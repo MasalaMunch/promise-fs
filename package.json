@@ -1,9 +1,9 @@
 {
-  "name": "@masalamunch/promise-fs",
+  "name": "@masalamunch/promisified-fs",
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MasalaMunch/promise-fs.git"
+    "url": "git+https://github.com/MasalaMunch/promisified-fs.git"
   },
   "license": "ISC",
   "dependencies": {
